@@ -3,13 +3,14 @@ I am Hubery, a Computer Engineering student graduated from University of Toronto
 Mainly interested in Game Development, familiar with Unity 2D & 3D, C# Programming.
 
 ## My Timeline
-<!--
-### 🌱Currently ###
+
+### 🌱Current ###
+
 #### October 2022 to now
-- Current Software Development Engineer at Amazon AWS Backup in Vancouver
+- Software Development Engineer at Amazon AWS Backup in Vancouver
 
 ### 🎉Past ###
--->
+
 #### Sep 2021 to June 2022
 - Finished Computer Engineering program and graduated from U of T
 
