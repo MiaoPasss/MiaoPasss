@@ -5,12 +5,12 @@ I have developed my own indie game <a href="https://github.com/MiaoPasss/Element
 
 ## 🌱 Currently ###
 
-### October 2022 - now
-- Software Development Engineer at Amazon AWS Backup in Vancouver
+### Oct 2022 - now
+- AWS Backup Software Development Engineer at Amazon in Vancouver
 
 ## 🎉 Past Timeline ##
 
-### Sep 2021 - June 2022
+### Sep 2021 - Apr 2022
 - Finished Computer Engineering program and graduated from U of T
 
 ### May 2020 - May 2021
