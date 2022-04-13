@@ -1,9 +1,12 @@
-### Hi there 👋
-I am Hubery, a Computer Engineering student graduated from University of Toronto. <br>
-Mainly interested in Game Development, familiar with Unity 2D & 3D, C# Programming. <br>
-I have developed my own indie game <a href="https://github.com/MiaoPasss/Elemental-Escape" target="_blank">Elemental Escape</a> and published it on Steam. <br><br>
+### Hi there 🎈
+<ul>
+  <li>I am Hubery, a Computer Engineering student graduated from University of Toronto.</li>
+  <li>Mainly interested in Game Development, familiar with Unity 2D & 3D, C# Programming.</li>
+  <li>I have developed my own indie game <a href="https://github.com/MiaoPasss/Elemental-Escape" target="_blank">Elemental Escape</a> and published it on Steam.</li>
+</ul>
+<br><br>
 
-## 🌱 Currently ###
+## 💬 Currently ###
 
 ### Oct 2022 - now
 - AWS Backup Software Development Engineer at Amazon in Vancouver
