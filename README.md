@@ -3,8 +3,7 @@
   <li>I am Hubery, a Computer Engineering student graduated from University of Toronto.</li>
   <li>Mainly interested in Game Development, familiar with Unity 2D & 3D, C# Programming.</li>
   <li>I have developed my own indie game <a href="https://github.com/MiaoPasss/Elemental-Escape" target="_blank">Elemental Escape</a> and published it on Steam.</li>
-</ul>
-<br><br>
+</ul><br>
 
 ## 💬 Currently ###
 
