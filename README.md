@@ -13,11 +13,8 @@
 
 ## 🎉 Past Timeline ##
 
-### Sep 2021 - Apr 2022
-- Finished Computer Engineering program with Honours degree
+### Sep 2017 - Apr 2022
+- Computer Engineering degree with Honours at University of Toronto
 
 ### May 2020 - May 2021
 - Unity Gameplay Developer at Uken Games
-
-### Sep 2017 - Apr 2020
-- 1st to 3rd year Computer Engineering at University of Toronto
