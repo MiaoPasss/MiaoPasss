@@ -8,17 +8,20 @@
 ## 💬 Currently ###
 
 ### Dec 2024 - Now
-- 📍 Hong Kong
+- 📍 Hong Kong, China
 - U3D Game Engineer at GoodLuck Studio
 
 ## 🎉 Past Timeline ##
 
 ### Sep 2022 - March 2024
-- 📍 Vancouver
+- 📍 Vancouver, Canada
 - AWS Snow Family SDE at Amazon
 
-### Sep 2017 - Apr 2022 (Undergradruate)
+### Sep 2017 - Apr 2022
+- 📍 Toronto, Canada
 - Computer Engineering degree with Honours at University of Toronto
 
-### May 2020 - May 2021 (Intern)
+### May 2020 - May 2021
+- 📍 Toronto, Canada
+- Internship
 - Unity Gameplay Developer at Uken Games
