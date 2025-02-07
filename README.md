@@ -23,5 +23,5 @@
 
 ### May 2020 - May 2021
 - 📍 Toronto, Canada
-- Internship
+- Full-Time Internship
 - Unity Gameplay Developer at Uken Games
