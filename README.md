@@ -17,8 +17,8 @@
 - 📍 Vancouver
 - AWS Snow Family SDE at Amazon
 
-### Sep 2017 - Apr 2022
+### Sep 2017 - Apr 2022 (Undergradruate)
 - Computer Engineering degree with Honours at University of Toronto
 
-### May 2020 - May 2021
+### May 2020 - May 2021 (Intern)
 - Unity Gameplay Developer at Uken Games
